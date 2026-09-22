@@ -98,7 +98,7 @@ on their own branch.
 
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
+- [X] Checkout the `alice` branch.
 
 - [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
@@ -109,7 +109,7 @@ You'll notice that your repository already has two branches called `alice` and `
     `recipe.md` file and `git commit` to finish the merge.
     - If you merge using your IDE, you will be given a GUI to resolve the conflicts in the file.
 
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [] Once the merge is complete, delete the `bob` branch.
 
 - [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
